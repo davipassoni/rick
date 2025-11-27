@@ -1,0 +1,13 @@
+.title{
+    font-size: 4rem;
+    text-shadow: opx 3px 20px cornflowerblue ;
+    text-align: center;
+    width:100% ;
+    margin-top: 1rem;
+}
+
+@media (width <= 768px){
+    .title{
+        font-size: 2rem;
+    }
+}
