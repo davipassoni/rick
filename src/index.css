@@ -10,7 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-image: url('public/bobjro.jpg');
+  background-image: url('public/olk.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -19,6 +19,7 @@ body{
 
 @media (width <= 768px){
   body{
-    background-image: url('public/olk.jpeg');
+    
+      background-image: url('public/bobjro.jpg');
   }
 }
